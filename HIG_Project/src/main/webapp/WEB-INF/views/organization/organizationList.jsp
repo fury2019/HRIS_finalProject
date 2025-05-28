@@ -228,9 +228,9 @@
   <div class="button-container">
     <input type="text" id="empSearchInput" placeholder="이름, 팀, 부서 검색" class="form-control" style="width:200px; ">
     <button id="empSearchBtn" class="btn btn-primary">검색</button>
-    <button id="openToTeamBtn" class="btn btn-info">팀 열기</button>
-    <button id="openAllBtn" class="btn btn-success">전체 열기</button>
-    <button id="collapseAllBtn" class="btn btn-secondary">전체 닫기</button>
+<!--     <button id="openToTeamBtn" class="btn btn-info">팀 열기</button> -->
+<!--     <button id="openAllBtn" class="btn btn-success">전체 열기</button> -->
+<!--     <button id="collapseAllBtn" class="btn btn-secondary">전체 닫기</button> -->
   </div>
 
   <div class="card">
